@@ -4,7 +4,12 @@
 # instead of editing here directly.
 #
 # For the `icon`, see SVG.toml
-
+[[socials]]
+    id = "rss"
+    url = "/rss.xml"
+    icon = "rss"
+    title = "RSS"
+    weight = 1
 
 [[socials]]
     id = "email"
