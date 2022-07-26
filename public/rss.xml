@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Anthony | Insctructor JavaScript</title>
+        <link>https://anthony-gorski.netlify.app/</link>
+        <description>Anthon Gorski, développeur et formateur JavaScript pour la Wild Code School.</description>
+        <generator>Hugo 0.101.0 https://gohugo.io/</generator>
+        
+            <language>fr</language>
+        
+        
+            <managingEditor>anthony.developpeurweb@gmail.com (Anthony Gorski)</managingEditor>
+        
+        
+            <webMaster>anthony.developpeurweb@gmail.com (Anthony Gorski)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Tue, 26 Jul 2022 12:08:16 &#43;0200</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://anthony-gorski.netlify.app/rss.xml" />
+        
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://anthony-gorski.netlify.app/posts/hello-world/</link>
+                <guid isPermaLink="true">https://anthony-gorski.netlify.app/posts/hello-world/</guid>
+                <pubDate>Sat, 16 Jul 2022 17:39:32 &#43;0200</pubDate>
+                
+                    <author>anthony.developpeurweb@gmail.com (Anthony Gorski)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
+&lt;p&gt;Pour en savoir plus sur moi, n&amp;rsquo;hésite pas à voir la section &amp;ldquo;About&amp;rdquo; !&lt;/p&gt;
+&lt;h1 id=&#34;pourquoi-ce-blog-&#34;&gt;Pourquoi ce blog ?&lt;/h1&gt;
+&lt;p&gt;Car j’aimerais simplement, partager mes expériences et mes connaissances avec les autres.&lt;/p&gt;
+&lt;p&gt;Je ne vais pas poster tout le temps, mais je vais essayer de faire quelque chose chaque jour que je partagerais sur Twitter (Ne pas hésiter a me follow 😎) et je ferai un récap’ ici chaque semaine !&lt;/p&gt;
+&lt;p&gt;Je vous dis à bientôt sur les internets !&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://anthony-gorski.netlify.app/categories/hello-world/">Hello world</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://anthony-gorski.netlify.app/tags/hello-world/">Hello World</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
